@@ -1,4 +1,4 @@
-# worldtime
+# Worldtime Flutter Application
 
 <table>
 		<th colspan="3">A new Flutter application.</th>
