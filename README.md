@@ -15,12 +15,11 @@
 </table>
 
 <table>
-		<th colspan="3">Waterford and Templemore cloud overlay</th>
+		<th colspan="3">New City Chosen</th>
   <tr>
-    <td><img src="https://github.com/iluso-6/OpenWeatherMap_Retrofit_2/blob/master/screenshots/three.png?raw=true" align="left"/></td>
-    <td width="33%"></td>
-    <td> <img src="https://github.com/iluso-6/OpenWeatherMap_Retrofit_2/blob/master/screenshots/four.png?raw=true" align="right"/>
-    </td>
+    <td></td>
+    <td width="33%"><img src="https://github.com/iluso-6/Flutter-World-Time/blob/master/screenshots/day.png?raw=true"/></td>
+    <td></td>
 
 <br><br>
 
